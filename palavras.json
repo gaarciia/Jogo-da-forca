@@ -1,0 +1,5 @@
+{
+   "tech": ["python", "javascript", "tecnologia", "algoritmo", "programacao", "vscode", "java", "sql", "android", "mysql", "oracle", "ruby", "desensolvedor", "desenvolvimento", "html", "css"],
+   "comidas": ["pizza", "hamburguer", "chocolate", "macarrao", "sorvete", "laranja", "tomate", "refrigerante", "bolo", "torta"],
+   "cores": ["vermelho", "azul", "amarelo", "verde", "roxo", "branco", "preto", "laranja", "marrom"]
+}
